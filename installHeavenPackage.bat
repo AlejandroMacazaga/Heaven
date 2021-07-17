@@ -1,1 +1,1 @@
-node install express arpad
+npm install express arpad
